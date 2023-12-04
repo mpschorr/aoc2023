@@ -1,0 +1,5 @@
+# all input/output files
+**/*.txt
+
+# main runner script?
+/main.py
